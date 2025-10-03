@@ -1,1 +1,1 @@
-JWT token management service with localStorage, token validation using jwt-decode, login/logout functionality
+JWT authentication service with localStorage token management, jwt-decode for validation, BehaviorSubject for auth state, methods: setToken, getToken, logout, isAuthenticated, hasToken with expiry check.

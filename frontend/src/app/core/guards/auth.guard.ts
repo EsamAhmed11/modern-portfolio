@@ -1,1 +1,1 @@
-Route guard to protect admin routes, redirect to login if not authenticated
+CanActivateFn route guard that checks authentication and redirects to /admin/login if not authenticated.

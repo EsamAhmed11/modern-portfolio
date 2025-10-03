@@ -1,1 +1,1 @@
-HTTP interceptor to add JWT Bearer token to all requests
+HTTP interceptor function to add Bearer token to Authorization header on all requests using inject(AuthService).
