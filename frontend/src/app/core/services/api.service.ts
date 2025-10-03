@@ -1,1 +1,1 @@
-Complete Angular HTTP service with all CRUD methods for Profile, Skills, Projects, ContactLinks and Auth login
+Complete Angular HTTP service with all CRUD methods - getProfile, updateProfile, getSkills, addSkill, updateSkill, deleteSkill, getProjects, addProject, updateProject, deleteProject, getContactLinks, addContactLink, updateContactLink, deleteContactLink, login method. Uses HttpClient, environment.apiUrl, returns Observables with proper typing.
