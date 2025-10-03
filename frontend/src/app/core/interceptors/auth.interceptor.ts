@@ -1,0 +1,1 @@
+HTTP interceptor to add JWT Bearer token to all requests

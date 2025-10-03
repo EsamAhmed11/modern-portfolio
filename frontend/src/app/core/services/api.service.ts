@@ -1,0 +1,1 @@
+Complete Angular HTTP service with all CRUD methods for Profile, Skills, Projects, ContactLinks and Auth login

@@ -1,0 +1,1 @@
+JWT token management service with localStorage, token validation using jwt-decode, login/logout functionality

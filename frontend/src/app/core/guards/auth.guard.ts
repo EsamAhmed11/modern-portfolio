@@ -1,0 +1,1 @@
+Route guard to protect admin routes, redirect to login if not authenticated
